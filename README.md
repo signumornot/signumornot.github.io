@@ -1,4 +1,4 @@
 <div>
   <p class="name">freeCodeCamp</p>
-  <button>Change to Blue</button>
+  <button onclick="names()">Change to Blue</button>
 </div>
