@@ -1,4 +1,4 @@
-<button onclick="myfoo2()">Выведи имя плиз</button>
+<button onclick="myfoo2()">Выведи имя пж</button>
 
 <div id="isid"></div>
 
