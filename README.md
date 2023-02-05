@@ -1,4 +1,4 @@
-<button onclick="myfoo2()">Выведи имя</button>
+<button onclick="myfoo2()">Выведи имя пж</button>
 
 <div id="isid"></div>
 
@@ -12,4 +12,4 @@ var firstvalue = first[firstrand];
 
 const returnedString =
     [firstvalue, secondvalue].join("");
-isid.innerHTML=ReturnedString; }</script>
+document.getElementById("isid").innerHTML = myfoo2; }</script>
