@@ -12,4 +12,4 @@ var firstvalue = first[firstrand];
 
 const returnedString =
     [firstvalue, secondvalue].join("");
-console.log(returnedString); }</script>
+isid.innerHTML=ReturnedString; }</script>
