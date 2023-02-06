@@ -17,7 +17,7 @@ button {
         background: #eaeef1;
         display:block;
         width:110px;
-        margin: 5px auto;
+        margin: 10px auto;
         background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.1));
         border-radius: 1px;
         color: rgba(0,0,0,.6);
@@ -36,13 +36,13 @@ button:active, button.active {
 
 .top {
         background: #2b323b;
-        padding: 1px 2px;
         text-align:center;
 }
 
 .toptext {
-        font-family: Oswald;
+        font-family: Bookman Old Style;
         color: #cad0de;
         padding: 1px 2px;
         text-align:center;
+        font-size:20px;
 }
