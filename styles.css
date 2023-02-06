@@ -2,6 +2,12 @@ body {
         background-color: #d8c2ff;
 }
 
+p {
+        text-align:center;
+        font-size:200%;
+        font-weight: bold;
+}
+
 button {
         text-align:center;
         font-size:13px;
