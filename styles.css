@@ -46,3 +46,8 @@ button:active, button.active {
         text-align:center;
         font-size:20px;
 }
+
+a {
+        color: #cad0de;
+        font-size:15px;
+}
