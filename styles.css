@@ -52,3 +52,12 @@ a {
         color: #cad0de;
         font-size:15px;
 }
+
+table {
+        border: 1px solid grey;
+        border-collapse: collapse;
+}
+
+td {
+        border: 1px solid grey;
+}
