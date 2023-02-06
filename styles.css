@@ -2,7 +2,7 @@ body {
         background-color: #d8c2ff;
 }
 
-a.butt {
+button {
         text-align:center;
         font-size:13px;
         text-decoration: none;
@@ -19,10 +19,10 @@ a.butt {
         box-shadow: 0 0 0 1px rgba(0,0,0,.2), 0 1px 2px rgba(0,0,0,.2), inset 0 1px 2px rgba(255,255,255,.7);
 }
 
-a.butt:hover, a.butt.hover {
+button:hover, a.butt.hover {
         background: #fff;
 }
-a.butt:active, a.butt.active {
+button:active, a.butt.active {
         background: #d0d3d6;
         background-image: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,0));
         box-shadow: inset 0 0 2px rgba(0,0,0,.2), inset 0 2px 5px rgba(0,0,0,.2), 0 1px rgba(255,255,255,.2);
