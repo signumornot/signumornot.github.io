@@ -17,7 +17,7 @@ button {
         background: #eaeef1;
         display:block;
         width:110px;
-        margin: 20px auto;
+        margin: 5px auto;
         background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.1));
         border-radius: 1px;
         color: rgba(0,0,0,.6);
@@ -38,4 +38,5 @@ button:active, button.active {
         background: #2b323b;
         font-family: Oswald;
         color: #cad0de;
+        padding: 1px 2px;
 }
