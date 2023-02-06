@@ -9,6 +9,11 @@ body {
         margin:5px auto;
 }
 
+.darkb {
+        font-family:'Arial';
+        color:#000;
+}
+
 button {
         text-align:center;
         font-size:13px;
