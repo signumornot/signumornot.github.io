@@ -1,16 +1,15 @@
 function mytotem() 
     { 
-    var beast = ['Барс', 'Бизон', 'Ворон', 'Лиса', 'Змея'];
+    var beast = ['Барс', 'Сова'];
 var beastrand = Math.floor(Math.random()*beast.length);
 var beastvalue = beast[beastrand];
 
-var char = ['Независимость', 'Свободолюбие', 'Хитрость', 'Благородство', 'Внимательность', 'Хладнокровие'];
+var char = ['« <b>Независимость</b> »', '« <b>Хитрость</b> »'];
 var charrand = Math.floor(Math.random()*char.length);
 var charvalue = char[charrand];
       
 var pic = ['<img src="http://d.zaix.ru/6SXg.png" border="0">', '<img src="http://d.zaix.ru/htFZ.png" border="0">'];
-var picrand = Math.floor(Math.random()*pic.length);
-var picvalue = pic[picrand];
+var picvalue = pic[beastrand];
 
 document.getElementById("beast").innerHTML = beastvalue;
 document.getElementById("char").innerHTML = charvalue;
