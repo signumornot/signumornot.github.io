@@ -40,7 +40,7 @@ button:active, button.active {
 }
 
 .toptext {
-        font-family: Bookman Old Style;
+        font-family: 'Bookman Old Style';
         color: #cad0de;
         padding: 1px 2px;
         text-align:center;
